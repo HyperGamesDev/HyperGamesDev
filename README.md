@@ -14,15 +14,17 @@ I also have a website with some links and a portfolio at https://hypergamesdev.g
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hypergamesdev&repo=sss222&theme=cobalt)](https://github.com/hypergamesdev/sss222)
 
 
-<!--### 🌟 Favorite Technologies
+### 🌟 Favorite Technologies
   *  <a title="Unity" href="http://unity.com/"><img width="40" align="center" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" alt="Unity's logo" /></a>
+  *  <a title="GitKraken" href="https://gitkraken.com"><img width="40" src="https://www.gitkraken.com/downloads/brand-assets/gitkraken-logo-dark-sq.png" alt="GitKraken logo" /></a>
+
+### 📖 What I'm currently learning
+  * <a title="Mongodb" href="https://www.mongodb.com/">
+    <img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmsdnshared.blob.core.windows.net%2Fmedia%2FMSDNBlogsFS%2Fprod.evol.blogs.msdn.com%2FCommunityServer.Blogs.Components.WeblogFiles%2F00%2F00%2F00%2F60%2F29%2Fmetablogapi%2F8712.mongodb-logo_19A95E89.png&f=1&nofb=1" alt="MongoDB's logo" />
+</a>
 
 ### 📚 What I want to learn
   * 
-
-### 📖 What I'm currently learning
-  * 
-!-->
 
 
 <h2 align="center">Know and using</h2>
@@ -45,7 +47,9 @@ I also have a website with some links and a portfolio at https://hypergamesdev.g
   <a title="Github" href="https://github.com">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="Github's logo" />
 </a>
-
+<a title="GitKraken" href="https://gitkraken.com">
+    <img width="40" src="https://www.gitkraken.com/downloads/brand-assets/gitkraken-logo-dark-sq.png" alt="GitKraken logo" />
+</a>
 <a title="Git" href="https://git-scm.com/">
     <img width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git's logo" />
 </a>
