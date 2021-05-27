@@ -1,19 +1,26 @@
 <h1 align="center">Heyyy💚</h1>
 <p align="center">Im <b><i>Hyper</i></b> - a 17 year old game developer, gamer and weeb
 <br>
-I also have a website with some links and a portfolio at [hypergamesdev.github.io](https://hypergamesdev.github.io)</p>
+I also have a website with some links and a portfolio at https://hypergamesdev.github.io</p>
 
-![Visitors](https://komarev.com/ghpvc/?username=HyperGamesDev) 
+![Visitors](https://komarev.com/ghpvc/?username=HyperGamesDev) [![Coffee](https://badgen.net/badge/Buy%20Me/A%20Coffee/purple?icon=kofi)](https://www.buymeacoffee.com/hypergamesdev) 
 
-<!--[![Hyper's GitHub stats](https://github-readme-stats.vercel.app/api?username=hypergamesdev](https://github.com/hypergamesdev/github-readme-stats)
+<!--
+[![Hyper's GitHub stats](https://github-readme-stats.vercel.app/api?username=hypergamesdev](https://github.com/hypergamesdev/github-readme-stats)
+!-->
 
-<!--### Favorite Technologies
+### Currently working on
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theinternshipproject&repo=iTower&theme=cobalt)](https://github.com/theinternshipproject/iTower)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hypergamesdev&repo=sss222&theme=cobalt)](https://github.com/hypergamesdev/sss222)
+
+
+<!--### 🌟 Favorite Technologies
   *  <a title="Unity" href="http://unity.com/"><img width="40" align="center" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" alt="Unity's logo" /></a>
 
-### What I want to learn
+### 📚 What I want to learn
   * 
 
-### 📚 What I'm currently learning
+### 📖 What I'm currently learning
   * 
 !-->
 
@@ -54,14 +61,14 @@ I also have a website with some links and a portfolio at [hypergamesdev.github.i
 <h2 align="center">Stats</h2>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperGamesDev&layout=compact&theme=cobalt" />
-</p>
-<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HyperGamesDev&count_private=true&show_icons=true&theme=cobalt" />
 </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HyperGamesDev&theme=cobalt" alt="hypergamesdev" /></p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HyperGamesDev&theme=cobalt" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperGamesDev&layout=compact&theme=cobalt" />
 </p>
 
 
