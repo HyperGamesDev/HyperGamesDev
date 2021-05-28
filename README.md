@@ -15,12 +15,12 @@ I also have a website with some links and a portfolio at https://hypergamesdev.g
 
 
 ### 🌟 Favorite Technologies
-  *  <a title="Unity" href="http://unity.com/"><img width="40" align="center" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" alt="Unity's logo" /></a>
-  *  <a title="GitKraken" href="https://gitkraken.com"><img width="40" src="https://www.gitkraken.com/downloads/brand-assets/gitkraken-logo-dark-sq.png" alt="GitKraken logo" /></a>
+  *  <a title="Unity" href="http://unity.com/"><img width="40" align="center" src="assets/img/unity.png" alt="Unity's logo" /></a>
+  *  <a title="GitKraken" href="https://gitkraken.com"><img width="40" src="assets/img/gitkraken.png" alt="GitKraken logo" /></a>
 
 ### 📖 What I'm currently learning
   * <a title="Mongodb" href="https://www.mongodb.com/">
-    <img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmsdnshared.blob.core.windows.net%2Fmedia%2FMSDNBlogsFS%2Fprod.evol.blogs.msdn.com%2FCommunityServer.Blogs.Components.WeblogFiles%2F00%2F00%2F00%2F60%2F29%2Fmetablogapi%2F8712.mongodb-logo_19A95E89.png&f=1&nofb=1" alt="MongoDB's logo" />
+    <img width="40" src="assets/img/mongodb.png" alt="MongoDB's logo" />
 </a>
 
 ### 📚 What I want to learn
@@ -28,42 +28,40 @@ I also have a website with some links and a portfolio at https://hypergamesdev.g
 
 
 <h2 align="center">Know and using</h2>
-
 <p align="center">
   <a title="Unity" href="http://unity.com/">
-      <img width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" alt="Unity's logo" />
+    <img width="40" src="assets/img/unity.png" alt="Unity's logo" />
   </a>
   <a title="CSharp" href="http://www.cplusplus.com/">
-    <img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fberkarat.com%2Fwp-content%2Fuploads%2F2018%2F10%2Fc-logo.png&f=1&nofb=1" alt="CSharp's logo"/>
+    <img width="40" src="assets/img/csharp" alt="CSharp's logo"/>
+  </a>
   <a title="Visual-studio-code" href="https://code.visualstudio.com/">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="Visual-studio-code's logo" />
-</a>
-    <a title="Mongodb" href="https://www.mongodb.com/">
-    <img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmsdnshared.blob.core.windows.net%2Fmedia%2FMSDNBlogsFS%2Fprod.evol.blogs.msdn.com%2FCommunityServer.Blogs.Components.WeblogFiles%2F00%2F00%2F00%2F60%2F29%2Fmetablogapi%2F8712.mongodb-logo_19A95E89.png&f=1&nofb=1" alt="MongoDB's logo" />
-</a>
+  </a>
+  <a title="Mongodb" href="https://www.mongodb.com/">
+    <img width="40" src="assets/img/mongodb.png" alt="MongoDB's logo" />
+  </a>
 </p>
   
 <p align="center">
   <a title="Github" href="https://github.com">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="Github's logo" />
-</a>
-<a title="GitKraken" href="https://gitkraken.com">
-    <img width="40" src="https://www.gitkraken.com/downloads/brand-assets/gitkraken-logo-dark-sq.png" alt="GitKraken logo" />
-</a>
-<a title="Git" href="https://git-scm.com/">
+  </a>
+  <a title="GitKraken" href="https://gitkraken.com">
+    <img width="40" src="assets/img/gitkraken.png" alt="GitKraken logo" />
+  </a>
+  <a title="Git" href="https://git-scm.com/">
     <img width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git's logo" />
-</a>
+  </a>
   <a title="Html" href="https://www.w3.org/html/">
       <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="Html's logo" />
   </a>      
-
   <a title="Css" href="https://css-tricks.com/">
       <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="Css's logo" />
   </a>
 </p>
 
 <h2 align="center">Stats</h2>
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HyperGamesDev&count_private=true&show_icons=true&theme=cobalt" />
 </p>
