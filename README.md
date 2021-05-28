@@ -5,10 +5,6 @@ I also have a website with some links and a portfolio at https://hypergamesdev.g
 
 ![Visitors](https://komarev.com/ghpvc/?username=HyperGamesDev) [![Coffee](https://badgen.net/badge/Buy%20Me/A%20Coffee/purple?icon=kofi)](https://www.buymeacoffee.com/hypergamesdev) 
 
-<!--
-[![Hyper's GitHub stats](https://github-readme-stats.vercel.app/api?username=hypergamesdev](https://github.com/hypergamesdev/github-readme-stats)
-!-->
-
 ### Currently working on
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theinternshipproject&repo=iTower&theme=cobalt)](https://github.com/theinternshipproject/iTower)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hypergamesdev&repo=sss222&theme=cobalt)](https://github.com/hypergamesdev/sss222)
@@ -16,11 +12,11 @@ I also have a website with some links and a portfolio at https://hypergamesdev.g
 
 ### 🌟 Favorite Technologies
   *  <a title="Unity" href="http://unity.com/"><img width="40" align="center" src="assets/img/unity.png" alt="Unity's logo" /></a>
-  *  <a title="GitKraken" href="https://gitkraken.com"><img width="40" src="assets/img/gitkraken.png" alt="GitKraken logo" /></a>
+  *  <a title="GitKraken" href="https://gitkraken.com"><img width="40" align="center" src="assets/img/gitkraken.png" alt="GitKraken logo" /></a>
 
 ### 📖 What I'm currently learning
   * <a title="Mongodb" href="https://www.mongodb.com/">
-    <img width="40" src="assets/img/mongodb.png" alt="MongoDB's logo" />
+    <img width="40" align="center" src="assets/img/mongodb.png" alt="MongoDB's logo" />
 </a>
 
 ### 📚 What I want to learn
