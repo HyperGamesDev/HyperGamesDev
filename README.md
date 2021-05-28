@@ -33,7 +33,7 @@ I also have a website with some links and a portfolio at https://hypergamesdev.g
     <img width="40" src="assets/img/unity.png" alt="Unity's logo" />
   </a>
   <a title="CSharp" href="http://www.cplusplus.com/">
-    <img width="40" src="assets/img/csharp" alt="CSharp's logo"/>
+    <img width="40" src="assets/img/csharp.png" alt="CSharp's logo"/>
   </a>
   <a title="Visual-studio-code" href="https://code.visualstudio.com/">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="Visual-studio-code's logo" />
