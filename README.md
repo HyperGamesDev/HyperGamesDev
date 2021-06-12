@@ -66,7 +66,7 @@ I also have a website with some links and a portfolio at https://hypergamesdev.g
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HyperGamesDev&theme=cobalt" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperGamesDev&layout=compact&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperGamesDev&layout=compact&theme=cobalt&v=2" />
 </p>
 
 
