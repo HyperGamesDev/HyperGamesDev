@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Craze","characterIndex":0,"characterName":"QFPWalk1","classId":1,"equips":[1,1,10,5,4,12,3,6],"faceIndex":0,"faceName":"QFP1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Craze","nickname":"Crepz","note":"<Unlock TP Mode: 1>\n<TP Mode: 1>\n<Unlock TP Mode: 2>","profile":"Polish Janusz that loves pierogi!"},
+{"id":2,"battlerName":"Frosty","characterIndex":1,"characterName":"QFPWalk1","classId":2,"equips":[5,0,8,3,4,0,11,6],"faceIndex":1,"faceName":"QFP1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Frosty","nickname":"Fruti","note":"<Unlock TP Mode: 4>\n<TP Mode: 4>\n<Unlock TP Mode: 5>","profile":"Aussie Guy that loves pierogi!"}
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="PLaser_data" version="1.3.0" audacityversion="2.3.3" sel0="0.0000000000" sel1="0.0904308390" vpos="0" h="0.0000000000" zoom="9702.3317036480" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="Laser" isSelected="1" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2854">
+				<waveblock start="0">
+					<simpleblockfile filename="e080889a.au" len="2854" min="-0.528233" max="0.943662" rms="0.308846"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.06471655" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1134">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808650.au" len="1134" min="-0.177896" max="0.84507" rms="0.280319"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="GlareDevil_data" version="1.3.0" audacityversion="2.3.3" sel0="0.0000000000" sel1="0.7628798186" vpos="0" h="0.0000000000" zoom="1742.1217305182" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="GoblinShoot" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="19134">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808435.au" len="19134" min="-0.44385" max="0.398062" rms="0.093528"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.43387755" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3536">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808c39.au" len="3536" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="GoblinShoot" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="19134">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808551.au" len="19134" min="-0.500622" max="0.366674" rms="0.113578"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.43387755" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3536">
+				<waveblock start="0">
+					<simpleblockfile filename="e080813c.au" len="3536" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="StarExplode" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="33643">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808ff1.au" len="33643" min="-0.794329" max="0.778594" rms="0.20223"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="StarExplode" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="33643">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808c46.au" len="33643" min="-0.794347" max="0.778589" rms="0.205601"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

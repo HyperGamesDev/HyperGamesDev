@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Craze's House","order":3,"parentId":2,"scrollX":1228.5,"scrollY":691.5},
+{"id":2,"expanded":true,"name":"North Melbourne","order":2,"parentId":9,"scrollX":1216.5,"scrollY":1468.5},
+{"id":3,"expanded":true,"name":"Tavern","order":4,"parentId":2,"scrollX":973.1999999999999,"scrollY":694.8},
+{"id":4,"expanded":true,"name":"General Shop","order":8,"parentId":7,"scrollX":1228.5,"scrollY":691.5},
+{"id":5,"expanded":true,"name":"Szymon's House","order":5,"parentId":2,"scrollX":1638,"scrollY":922},
+{"id":6,"expanded":true,"name":"Road01","order":6,"parentId":9,"scrollX":1216.5,"scrollY":1681.5},
+{"id":7,"expanded":true,"name":"Kensington","order":7,"parentId":9,"scrollX":1622,"scrollY":922},
+null,
+{"id":9,"expanded":true,"name":"Australia","order":1,"parentId":0,"scrollX":1622,"scrollY":1106}
+]
