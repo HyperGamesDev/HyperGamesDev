@@ -2,4 +2,6 @@
  *.js linguist-detectable=false
  QuestForPierogi/* linguist-detectable=false
  QuestForPierogi/** linguist-detectable=false
-**/.* linguist-detectable=false
+ * linguist-detectable=false
+ **/ linguist-detectable=false
+ **/.* linguist-detectable=false
