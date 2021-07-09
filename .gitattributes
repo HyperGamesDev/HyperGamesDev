@@ -2,3 +2,8 @@
 *.js -linguist-vendored
 QuestForPierogi/* -linguist-vendored
 QuestForPierogi/** -linguist-vendored
+
+**/*.js linguist-vendored
+*.js linguist-vendored
+QuestForPierogi/* linguist-vendored
+QuestForPierogi/** linguist-vendored
