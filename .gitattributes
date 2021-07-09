@@ -7,3 +7,8 @@ QuestForPierogi/** -linguist-vendored
 *.js linguist-vendored
 QuestForPierogi/* linguist-vendored
 QuestForPierogi/** linguist-vendored
+
+**/*.js linguist-detectable=false
+*.js linguist-detectable=false
+QuestForPierogi/* linguist-detectable=false
+QuestForPierogi/** linguist-detectable=false
