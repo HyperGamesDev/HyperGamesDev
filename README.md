@@ -6,9 +6,8 @@ I also have a website with some links and a portfolio at https://hypergamesdev.g
 ![Visitors](https://komarev.com/ghpvc/?username=HyperGamesDev) [![Coffee](https://badgen.net/badge/Buy%20Me/A%20Coffee/purple?icon=kofi)](https://www.buymeacoffee.com/hypergamesdev) 
 
 ### Currently working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hypergamesdev&repo=glitchout&theme=cobalt)](https://github.com/hypergamesdev/glitchout)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hypergamesdev&repo=sss222&theme=cobalt)](https://github.com/hypergamesdev/sss222)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theinternshipproject&repo=iTower&theme=cobalt)](https://github.com/theinternshipproject/iTower)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hypergamesdev&repo=glitchout&theme=cobalt)](https://github.com/hypergamesdev/glitchout)
 
 
 ### 🌟 Favorite Technologies
