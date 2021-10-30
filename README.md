@@ -1,5 +1,5 @@
 <h1 align="center">Heyyy💚</h1>
-<p align="center">Im <b><i>Hyper</i></b> - a 17 year old game developer, gamer and weeb
+<p align="center">Im <b><i>Hyper</i></b> - an 18 year old game developer, gamer and weeb
 <br>
 I also have a website with some links and a portfolio at https://hypergamesdev.github.io</p>
 
@@ -7,7 +7,7 @@ I also have a website with some links and a portfolio at https://hypergamesdev.g
 
 ### Currently working on
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hypergamesdev&repo=sss222&theme=cobalt)](https://github.com/hypergamesdev/sss222)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hypergamesdev&repo=glitchout&theme=cobalt)](https://github.com/hypergamesdev/glitchout)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hypergamesdev&repo=glitchout&theme=cobalt)](https://github.com/hypergamesdev/glitchout)!-->
 
 
 ### 🌟 Favorite Technologies
@@ -68,19 +68,3 @@ I also have a website with some links and a portfolio at https://hypergamesdev.g
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperGamesDev&layout=compact&theme=cobalt&v=2?exclude_repo=HyperGamesDev" />
 </p>
-
-
-<!--
-**HyperGamesDev/HyperGamesDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
