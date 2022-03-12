@@ -7,7 +7,7 @@ I also have a website with some links and a portfolio at https://hypergamesdev.g
 
 ### Currently working on
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hypergamesdev&repo=sss222&theme=cobalt)](https://github.com/hypergamesdev/sss222)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheInternshipProject&repo=rusty-ropes&theme=cobalt)](https://github.com/TheInternshipProject/rusty-ropes)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HyperLemonStudios&repo=rusty-ropes&theme=cobalt)](https://github.com/HyperLemonStudios/rusty-ropes)!-->
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hypergamesdev&repo=glitchout&theme=cobalt)](https://github.com/hypergamesdev/glitchout)!-->
 
 
