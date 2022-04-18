@@ -12,49 +12,45 @@ I also have a website with some links and a portfolio at https://hypergamesdev.g
 
 
 ### 🌟 Favorite Technologies
-  *  <a title="Unity" href="http://unity.com/"><img width="40" align="center" src="assets/img/unity.png" alt="Unity's logo" /></a>
-  *  <a title="GitKraken" href="https://gitkraken.com"><img width="40" align="center" src="assets/img/gitkraken.png" alt="GitKraken logo" /></a>
+  *  <a title="Unity" href="http://unity.com/"> <img width="40" align="center" src="assets/img/unity.png" alt="Unity logo" /> </a>
+  *  <a title="GitKraken" href="https://gitkraken.com"> <img width="40" align="center" src="assets/img/gitkraken.png" alt="GitKraken logo" /> </a>
 
 ### 📖 What I'm currently learning
-  * <a title="Mongodb" href="https://www.mongodb.com/">
-    <img width="40" align="center" src="assets/img/mongodb.png" alt="MongoDB's logo" />
-</a>
+  * <a title="JS & JQuery" href="https://www.jquery.com/"> <img width="40" align="center" src="assets/img/jquery.png" alt="JQuery logo" /> </a>
+  * <a title="MongoDB" href="https://www.mongodb.com/"> <img width="40" align="center" src="assets/img/mongodb.png" alt="MongoDB logo" /> </a>
 
 ### 📚 What I want to learn
-  * 
+  * <a title="CSS & SASS" href="https://sass-lang.com/"> <img width="40" src="assets/img/sass.png" alt="SASS logo" /> </a>
 
 
 <h2 align="center">Know and using</h2>
 <p align="center">
   <a title="Unity" href="http://unity.com/">
-    <img width="40" src="assets/img/unity.png" alt="Unity's logo" />
+    <img width="40" src="assets/img/unity.png" alt="Unity logo" />
   </a>
   <a title="CSharp" href="https://docs.microsoft.com/pl-pl/dotnet/csharp/">
-    <img width="40" src="assets/img/csharp.png" alt="CSharp's logo"/>
+    <img width="40" src="assets/img/csharp.png" alt="CSharp logo"/>
   </a>
   <a title="Visual-studio-code" href="https://code.visualstudio.com/">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="Visual-studio-code's logo" />
   </a>
-  <a title="Mongodb" href="https://www.mongodb.com/">
-    <img width="40" src="assets/img/mongodb.png" alt="MongoDB's logo" />
+  <a title="MongoDB" href="https://www.mongodb.com/">
+    <img width="40" src="assets/img/mongodb.png" alt="MongoDB logo" />
   </a>
 </p>
   
 <p align="center">
-  <a title="Github" href="https://github.com">
-    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="Github's logo" />
+  <a title="GitHub" href="https://github.com">
+    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="GitHub's logo" />
   </a>
   <a title="GitKraken" href="https://gitkraken.com">
     <img width="40" src="assets/img/gitkraken.png" alt="GitKraken logo" />
   </a>
   <a title="Git" href="https://git-scm.com/">
-    <img width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git's logo" />
+    <img width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git logo" />
   </a>
-  <a title="Html" href="https://www.w3.org/html/">
-      <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="Html's logo" />
-  </a>      
-  <a title="Css" href="https://css-tricks.com/">
-      <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="Css's logo" />
+  <a title="HTML" href="https://www.w3.org/html/">
+      <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML logo" />
   </a>
 </p>
 
